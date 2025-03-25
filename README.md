@@ -54,9 +54,10 @@ In essence, this is a Streamlit application designed to:
 🔗 [Live Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
-Screenshot is available in https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
+- Screenshot is available in https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
 
-- 🔹 Data Flow Diagram - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Architecture%20or%20DataFlow%20Diagram.docx
+🖼️ Data Flow Diagram :
+- https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Architecture%20or%20DataFlow%20Diagram.docx
 
 
 ## 💡 Inspiration
