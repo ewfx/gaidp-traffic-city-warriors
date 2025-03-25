@@ -15,28 +15,30 @@
 
 ## 🎯 Introduction
 Data Profiling Application built using Streamlit and Python. Here's a breakdown of its key components and functionalities:
+
 **Core Functionality:**
-**Data Upload:**
+
+- 🔹**Data Upload:**
 The left sidebar provides a file uploader (st.file_uploader) that allows users to upload CSV files.
 This is the primary way for users to input their datasets for analysis.
-**Data Display:**
+- 🔹**Data Display:**
 The code snippet df = pd.DataFrame(data) indicates that the application uses the pandas library to handle tabular data.
 The uploaded CSV data is likely also loaded into a pandas DataFrame.
 It is then highly likely that the dataframes are displayed using the st.write() command.
-**Data Analysis:**
+- 🔹**Data Analysis:**
 The "Regulatory Reporting Instruction" text area suggests that the application performs some form of data analysis or validation based on user-provided instructions.
 The hard coded data, and the uploaded csv data, are used together in conjunction with the regulatory reporting instructions.
 It is very likely that the bard API is used to process the natural language instructions, and then to compare the data to those instructions.
-**Regulatory Compliance:**
+- 🔹**Regulatory Compliance:**
 The instructions provided in the text area are related to regulatory compliance for financial transactions.
 This indicates that the application is designed to help users ensure their data meets specific regulatory requirements.
-**Data Validation:**
+- 🔹**Data Validation:**
 The instructions mention checks for:
 Transaction amount vs. reported amount.
 Account balance (negative values).
 ISO 4217 currency codes.
 Cross-border transaction limits.
-**Jurisdiction validation.**
+- 🔹**Jurisdiction validation.**
 Potential Use of Bard API:
 It is very likely that the bard api is used, to process the natural language instructions, and then to compare the data to those instructions.
 
@@ -67,21 +69,21 @@ This type of application could be very useful for financial analysts, compliance
 
 ## 🛠️ How We Built It
 **Technical Details:**
-**Streamlit:**
+- 🔹**Streamlit:**
 The application is built using Streamlit, a Python framework for creating web applications.
 Streamlit makes it easy to create interactive web interfaces for data science and machine learning.
-**Pandas:**
+- 🔹**Pandas:**
 The pandas library is used for data manipulation and analysis, particularly for working with DataFrames.
-**Python:**
+- 🔹**Python:**
 Python is the programming language used to build the application.
-**User Interface:**
+- 🔹**User Interface:**
 The application has a user-friendly web interface with a sidebar for input and a main area for output.
-**Localhost:**
+- 🔹**Localhost:**
 The application is running on localhost:8501, indicating it's being run locally on the user's machine.
 
 ## 🚧 Challenges We Faced
-Contextual Understanding
-Environment Setup
+- 🔹Contextual Understanding
+- 🔹Environment Setup
 
 ## 🏃 How to Run
 Refer : https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/How%20to%20run%20the%20code.docx
