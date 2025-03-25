@@ -51,8 +51,11 @@ In essence, this is a Streamlit application designed to:
 - 🔹This type of application could be very useful for financial analysts, compliance officers, and anyone who needs to ensure their data meets regulatory requirements.
 
 ## 🎥 Demo
-🔗 [Live Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+🔗 [Live/ Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4) (Applicable)  
+- https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4
+📹 [Video Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4) (Same as above )
+- https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4
+  
 🖼️ Screenshots:
 - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
 
