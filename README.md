@@ -52,7 +52,7 @@ In essence, this is a Streamlit application designed to:
 
 ## 🎥 Demo
 🔗 [Live Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4) (if applicable)  
-📹 [Video Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4) (if applicable)  
+📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 Screenshot is available in https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
 
