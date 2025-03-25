@@ -38,23 +38,75 @@ Describe the major technical or non-technical challenges your team encountered.
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ewfx/gaidp-traffic-city-warriors/tree/main/code/src
+   Open DataProfiling Project in PyCharm
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   Open Terminal and run pip install -r requirements.txt
+   ![image](https://github.com/user-attachments/assets/ec952246-3d44-4929-bb4e-cd59d1bc8cd6)
+
+   Create Virtual Environment & Install Requirement
+   ![image](https://github.com/user-attachments/assets/2bbd46f3-103b-46e0-be40-5fe25394d0e2)
+   ![image](https://github.com/user-attachments/assets/120771c4-3d03-45aa-a779-302a6d4c73b8)
+   Note : It will take approx. 5 mins
+
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   ![image](https://github.com/user-attachments/assets/10cc42d2-76ef-46c3-8c2a-2659a64f0977)
+
+   Open Terminal in .venv and run streamlit run main.py
+   Close the Terminal Select .venv using mouse then Open Terminal 
+   ![image](https://github.com/user-attachments/assets/4903ae05-28b9-4092-8952-f1b568624840)
+
+   Open the URL in Browser
+   ![image](https://github.com/user-attachments/assets/0d7de788-86e0-4747-b6e1-5e52cc92ee54)
+
+
    ```
 
+1.	Go to https://github.com/anoop387/TrafficCityWarriors
+2.	Download Folder (TrafficCityWarriors-main) 
+3.	Open DataProfiling Project in PyCharm
+ 
+4.	Open Terminal and run pip install -r requirements.txt
+ 
+
+5.	Create Virtual Environment & Install Requirement 
+ 
+
+
+ 
+Note : It will take approx. 5 mins
+
+
+6.	Run the Project
+ 
+
+7.	Open Terminal in .venv and run streamlit run main.py
+Close the Terminal Select .venv using mouse then Open Terminal 
+ 
+
+8.	Open the URL in Browser
+ 
+
+
+Application Screen Shot is mentioned in ppt & captured flow in video 
+
+
+
+   
+
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Python
+- 🔹 Streamlit is for visualization and creating interactive webpages
+- 🔹 Bard API is a powerful tool that allows developers to access the capabilities of Google’s large language model. Bard to generate text, translate languages, write different kinds of creative content, and answer questions in an informative way.
+- 🔹 Pandas is a powerful and popular Python library used for data manipulation and analysis
+- 🔹 PyCharm is a popular integrated development environment (IDE) developed by JetBrains, specifically designed for Python development
+
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Anoop Velappan** - [GitHub](https://github.com/anoop387) | [LinkedIn](https://www.linkedin.com/in/anoop387/)
+- **Anoop Thakur** - [GitHub](#) | [LinkedIn](#)
+- **Abhishek Gupta** - [GitHub](#) | [LinkedIn](#)
