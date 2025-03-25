@@ -62,34 +62,8 @@ Describe the major technical or non-technical challenges your team encountered.
 
    Open the URL in Browser
    ![image](https://github.com/user-attachments/assets/0d7de788-86e0-4747-b6e1-5e52cc92ee54)
-
-
    ```
 
-1.	Go to https://github.com/anoop387/TrafficCityWarriors
-2.	Download Folder (TrafficCityWarriors-main) 
-3.	Open DataProfiling Project in PyCharm
- 
-4.	Open Terminal and run pip install -r requirements.txt
- 
-
-5.	Create Virtual Environment & Install Requirement 
- 
-
-
- 
-Note : It will take approx. 5 mins
-
-
-6.	Run the Project
- 
-
-7.	Open Terminal in .venv and run streamlit run main.py
-Close the Terminal Select .venv using mouse then Open Terminal 
- 
-
-8.	Open the URL in Browser
- 
 
 
 Application Screen Shot is mentioned in ppt & captured flow in video 
