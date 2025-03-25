@@ -56,6 +56,8 @@ In essence, this is a Streamlit application designed to:
 🖼️ Screenshots:
 Screenshot is available in https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
 
+- 🔹 Data Flow Diagram - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Architecture%20or%20DataFlow%20Diagram.docx
+
 
 ## 💡 Inspiration
 - 🔹 Leverage the power of Python and NLP to improve efficiency and accuracy.
@@ -86,7 +88,7 @@ The application is running on localhost:8501, indicating it's being run locally 
 - 🔹Environment Setup
 
 ## 🏃 How to Run
-Refer : https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/How%20to%20run%20the%20code.docx
+Refer :** https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/How%20to%20run%20the%20code.docx**
 1. Clone the repository  
    ```sh
    git clone https://github.com/ewfx/gaidp-traffic-city-warriors/tree/main/code/src
@@ -111,6 +113,8 @@ Refer : https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/
 Application Screen Shot is mentioned in ppt & captured flow in video 
 - 🔹Application Screen Shot - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
 - 🔹Application Demo Video - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4
+  
+- 🔹 Data Flow Diagram - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Architecture%20or%20DataFlow%20Diagram.docx
 
 ## 🏗️ Tech Stack
 - 🔹 Python
