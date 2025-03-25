@@ -36,6 +36,7 @@ Briefly outline the technologies, frameworks, and tools used in development.
 Describe the major technical or non-technical challenges your team encountered.
 
 ## 🏃 How to Run
+Refer : https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/How%20to%20run%20the%20code.docx
 1. Clone the repository  
    ```sh
    git clone https://github.com/ewfx/gaidp-traffic-city-warriors/tree/main/code/src
@@ -44,17 +45,15 @@ Describe the major technical or non-technical challenges your team encountered.
 2. Install dependencies  
    ```sh
    Open Terminal and run pip install -r requirements.txt
-   ![image](https://github.com/user-attachments/assets/ec952246-3d44-4929-bb4e-cd59d1bc8cd6)
 
-   Create Virtual Environment & Install Requirement
-   ![image](https://github.com/user-attachments/assets/2bbd46f3-103b-46e0-be40-5fe25394d0e2)
-   ![image](https://github.com/user-attachments/assets/120771c4-3d03-45aa-a779-302a6d4c73b8)
+
+   Create Virtual Environment & Install Requirement (Refer - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/How%20to%20run%20the%20code.docx)
    Note : It will take approx. 5 mins
 
    ```
 3. Run the project  
    ```sh
-   ![image](https://github.com/user-attachments/assets/10cc42d2-76ef-46c3-8c2a-2659a64f0977)
+   [image](https://github.com/user-attachments/assets/10cc42d2-76ef-46c3-8c2a-2659a64f0977)
 
    Open Terminal in .venv and run streamlit run main.py
    Close the Terminal Select .venv using mouse then Open Terminal 
