@@ -109,8 +109,8 @@ Refer : https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/
    ```
 
 Application Screen Shot is mentioned in ppt & captured flow in video 
-Application Screen Shot - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
-Application Demo Video - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4
+- 🔹Application Screen Shot - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
+- 🔹Application Demo Video - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4
 
 ## 🏗️ Tech Stack
 - 🔹 Python
