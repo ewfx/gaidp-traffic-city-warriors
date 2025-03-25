@@ -14,26 +14,74 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Data Profiling Application built using Streamlit and Python. Here's a breakdown of its key components and functionalities:
+**Core Functionality:**
+**Data Upload:**
+The left sidebar provides a file uploader (st.file_uploader) that allows users to upload CSV files.
+This is the primary way for users to input their datasets for analysis.
+**Data Display:**
+The code snippet df = pd.DataFrame(data) indicates that the application uses the pandas library to handle tabular data.
+The uploaded CSV data is likely also loaded into a pandas DataFrame.
+It is then highly likely that the dataframes are displayed using the st.write() command.
+**Data Analysis:**
+The "Regulatory Reporting Instruction" text area suggests that the application performs some form of data analysis or validation based on user-provided instructions.
+The hard coded data, and the uploaded csv data, are used together in conjunction with the regulatory reporting instructions.
+It is very likely that the bard API is used to process the natural language instructions, and then to compare the data to those instructions.
+**Regulatory Compliance:**
+The instructions provided in the text area are related to regulatory compliance for financial transactions.
+This indicates that the application is designed to help users ensure their data meets specific regulatory requirements.
+**Data Validation:**
+The instructions mention checks for:
+Transaction amount vs. reported amount.
+Account balance (negative values).
+ISO 4217 currency codes.
+Cross-border transaction limits.
+**Jurisdiction validation.**
+Potential Use of Bard API:
+It is very likely that the bard api is used, to process the natural language instructions, and then to compare the data to those instructions.
+
+
+In essence, this is a Streamlit application designed to:
+Enable users to upload their financial data in CSV format.
+Allow users to input regulatory reporting instructions in natural language.
+Analyze the data against the instructions.
+Display the analysis results in a user-friendly web interface.
+This type of application could be very useful for financial analysts, compliance officers, and anyone who needs to ensure their data meets regulatory requirements.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+🔗 [Live Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4) (if applicable)  
+📹 [Video Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4) (if applicable)  
 🖼️ Screenshots:
+Screenshot is available in https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
 
-![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Enable users to upload their financial data in CSV format.
+Allow users to input regulatory reporting instructions in natural language.
+Analyze the data against the instructions.
+Display the analysis results in a user-friendly web interface.
+This type of application could be very useful for financial analysts, compliance officers, and anyone who needs to ensure their data meets regulatory requirements.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+**Technical Details:**
+**Streamlit:**
+The application is built using Streamlit, a Python framework for creating web applications.
+Streamlit makes it easy to create interactive web interfaces for data science and machine learning.
+**Pandas:**
+The pandas library is used for data manipulation and analysis, particularly for working with DataFrames.
+**Python:**
+Python is the programming language used to build the application.
+**User Interface:**
+The application has a user-friendly web interface with a sidebar for input and a main area for output.
+**Localhost:**
+The application is running on localhost:8501, indicating it's being run locally on the user's machine.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Contextual Understanding
+Environment Setup
 
 ## 🏃 How to Run
 Refer : https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/How%20to%20run%20the%20code.docx
@@ -46,30 +94,21 @@ Refer : https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/
    ```sh
    Open Terminal and run pip install -r requirements.txt
 
-
    Create Virtual Environment & Install Requirement (Refer - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/How%20to%20run%20the%20code.docx)
    Note : It will take approx. 5 mins
 
    ```
 3. Run the project  
    ```sh
-   [image](https://github.com/user-attachments/assets/10cc42d2-76ef-46c3-8c2a-2659a64f0977)
-
-   Open Terminal in .venv and run streamlit run main.py
-   Close the Terminal Select .venv using mouse then Open Terminal 
-   ![image](https://github.com/user-attachments/assets/4903ae05-28b9-4092-8952-f1b568624840)
+   Close the Terminal Select .venv using mouse then Open Terminal
+   Open Terminal in .venv and run streamlit run main.py (Refer - Refer - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/How%20to%20run%20the%20code.docx)
 
    Open the URL in Browser
-   ![image](https://github.com/user-attachments/assets/0d7de788-86e0-4747-b6e1-5e52cc92ee54)
    ```
 
-
-
 Application Screen Shot is mentioned in ppt & captured flow in video 
-
-
-
-   
+Application Screen Shot - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/Data%20Profiling%20Application.pptx
+Application Demo Video - https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4
 
 ## 🏗️ Tech Stack
 - 🔹 Python
