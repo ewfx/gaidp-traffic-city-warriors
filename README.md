@@ -44,11 +44,11 @@ It is very likely that the bard api is used, to process the natural language ins
 
 
 In essence, this is a Streamlit application designed to:
-Enable users to upload their financial data in CSV format.
-Allow users to input regulatory reporting instructions in natural language.
-Analyze the data against the instructions.
-Display the analysis results in a user-friendly web interface.
-This type of application could be very useful for financial analysts, compliance officers, and anyone who needs to ensure their data meets regulatory requirements.
+- 🔹Enable users to upload their financial data in CSV format.
+- 🔹Allow users to input regulatory reporting instructions in natural language.
+- 🔹Analyze the data against the instructions.
+- 🔹Display the analysis results in a user-friendly web interface.
+- 🔹This type of application could be very useful for financial analysts, compliance officers, and anyone who needs to ensure their data meets regulatory requirements.
 
 ## 🎥 Demo
 🔗 [Live Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/demo/Data%20Profiling%20Application%20Video.mp4) (if applicable)  
@@ -58,14 +58,14 @@ Screenshot is available in https://github.com/ewfx/gaidp-traffic-city-warriors/b
 
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+- 🔹 Leverage the power of Python and NLP to improve efficiency and accuracy.
 
 ## ⚙️ What It Does
-Enable users to upload their financial data in CSV format.
-Allow users to input regulatory reporting instructions in natural language.
-Analyze the data against the instructions.
-Display the analysis results in a user-friendly web interface.
-This type of application could be very useful for financial analysts, compliance officers, and anyone who needs to ensure their data meets regulatory requirements.
+- 🔹Enable users to upload their financial data in CSV format.
+- 🔹Allow users to input regulatory reporting instructions in natural language.
+- 🔹Analyze the data against the instructions.
+- 🔹Display the analysis results in a user-friendly web interface.
+- 🔹This type of application could be very useful for financial analysts, compliance officers, and anyone who needs to ensure their data meets regulatory requirements.
 
 ## 🛠️ How We Built It
 **Technical Details:**
