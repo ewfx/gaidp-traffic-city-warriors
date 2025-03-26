@@ -2,7 +2,7 @@
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
-- [Demo](#demo)
+- [Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-demo)
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
