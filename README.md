@@ -131,5 +131,5 @@ Application Screen Shot is mentioned in ppt & captured flow in video
 
 ## 👥 Team
 - **Anoop Velappan** - [GitHub](https://github.com/anoop387) | [LinkedIn](https://www.linkedin.com/in/anoop387/)
-- **Anoop Thakur** - [GitHub](#) | [LinkedIn](#)
-- **Abhishek Gupta** - [GitHub](#) | [LinkedIn](#)
+- **Anoop Thakur** 
+- **Abhishek Gupta** 
