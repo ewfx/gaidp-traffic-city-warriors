@@ -6,7 +6,7 @@
 - [Inspiration](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-inspiration)
 - [What It Does](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#%EF%B8%8F-what-it-does)
 - [How We Built It](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#%EF%B8%8F-how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
+- [Challenges We Faced](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-challenges-we-faced)
 - [How to Run](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-how-to-run)
 - [Tech Stack](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#%EF%B8%8F-tech-stack)
 - [Team](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-team)
@@ -90,7 +90,7 @@ The application is running on localhost:8501, indicating it's being run locally 
 
 ## 🚧 Challenges We Faced
 - 🔹Contextual Understanding
-- 🔹Environment Setup
+- 🔹Being new to this, we're finding the environment setup challenging.
 
 ## 🏃 How to Run
 Refer :** https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/artifacts/arch/How%20to%20run%20the%20code.docx**
