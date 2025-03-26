@@ -1,7 +1,7 @@
 # 🚀 Project Name
 
 ## 📌 Table of Contents
-- [Introduction](#introduction)
+- [Introduction](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-demo)
 - [Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-demo)
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
