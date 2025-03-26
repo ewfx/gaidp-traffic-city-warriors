@@ -3,13 +3,13 @@
 ## 📌 Table of Contents
 - [Introduction](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-demo)
 - [Demo](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-demo)
-- [Inspiration](#inspiration)
+- [Inspiration]([https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
 - [Challenges We Faced](#challenges-we-faced)
-- [How to Run](#how-to-run)
-- [Tech Stack](#tech-stack)
-- [Team](#team)
+- [How to Run]([#how-to-run](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-how-to-run)
+- [Tech Stack](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#%EF%B8%8F-tech-stack)
+- [Team](https://github.com/ewfx/gaidp-traffic-city-warriors/blob/main/README.md#-team)
 
 ---
 
